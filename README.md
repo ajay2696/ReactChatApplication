@@ -9,7 +9,7 @@ React UI :
   5. Subscribe to different topics using sockjs
   6. Maintain state of application using Redux
   7. Use React thunk as middleware 
-  8. Notifications should be shown modal on click on notification window
+  8. Notifications should be shown in modal on the click if notification button.
   9. After reading notification, Count should go down
 
 Spring App: 
