@@ -1,5 +1,5 @@
 # ReactChatApplication
-Application achieves below goals
+Application should achieves below 
 React UI :
   1. Create login page with name and login button.
   2. See users who are online and notification icon on right side.
